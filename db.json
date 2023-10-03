@@ -7,21 +7,9 @@
       "isInCart": false
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
       "isInCart": false
     },
     {
@@ -31,10 +19,10 @@
       "isInCart": false
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "Mohamed Matassi",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
